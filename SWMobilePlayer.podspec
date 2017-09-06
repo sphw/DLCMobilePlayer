@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SWMobilePlayer'
-  s.version          = '0.3.9'
+  s.version          = '0.4.0'
   s.summary          = 'A framework of video player for iOS devices that based on VLCKit.'
   s.description      = <<-DESC
                        A framework of video player for iOS devices that based on VLCKit(https://github.com/dklinzh/VLCKit). Supported protocols include http, rtsp, rtmp etc.
